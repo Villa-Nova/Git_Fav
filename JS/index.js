@@ -1,3 +1,3 @@
-import { FavoriteViwer } from "./constructor.js";
+import { FavoriteViewer } from "./constructor.js";
 
-new FavoriteViwer("#app");
+new FavoriteViewer("#app");

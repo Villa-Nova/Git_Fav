@@ -63,7 +63,7 @@ class Favorite {
   };
 };
 
-export class FavoriteViwer extends Favorite {
+export class FavoriteViewer extends Favorite {
   constructor(root) {
     super(root);
     
